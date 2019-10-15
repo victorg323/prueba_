@@ -1,9 +1,11 @@
 <!DOCTYPE>
 <html>
   <head>
-  Ejemplo
+  <meta charset="UTF-8"/>
+  <title>Ejemplo</title>
   </head>
   <body>
+  <h1>PRUEBA</h1>
   PruebaPruebaPruebaPruebaPruebaPruebaPruebaPruebaPruebaPrueba
   </body>
 </html>
